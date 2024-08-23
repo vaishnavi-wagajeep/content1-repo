@@ -7,3 +7,7 @@ draft: false
 # Welcome to My First Post
 
 This is the first post in `repo1-content`. It will be published on my Hugo site.
+
+# Example Post
+
+This is an updated paragraph in the post.
